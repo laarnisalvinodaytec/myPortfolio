@@ -390,12 +390,12 @@ button.close {
     text-align: justify !important
 }
 .fab:hover{
-    background-color: blue;
+    background-color: #766dff; 
     border-radius: 5px;
 
 }
 .fas:hover{
-    background-color: blue; 
+    background-color: #766dff; 
     border-radius: 5px;
    
 }
