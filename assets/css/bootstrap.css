@@ -64,7 +64,6 @@ a {
     -webkit-text-decoration-skip: objects
 }
 
-
 progress {
     vertical-align: baseline
 }
@@ -389,6 +388,16 @@ button.close {
 }
 .text-justify {
     text-align: justify !important
+}
+.fab:hover{
+    background-color: blue;
+    border-radius: 5px;
+
+}
+.fas:hover{
+    background-color: blue; 
+    border-radius: 5px;
+   
 }
 
 
